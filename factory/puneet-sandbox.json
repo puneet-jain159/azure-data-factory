@@ -1,0 +1,9 @@
+{
+	"name": "puneet-sandbox",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c55c76fa-ffc8-4f1b-911e-b7f25adad5e5",
+		"tenantId": "9f37a392-f0ae-4280-9796-f1864a10effc"
+	}
+}
